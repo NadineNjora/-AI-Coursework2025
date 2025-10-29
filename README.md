@@ -1,1 +1,1 @@
-# -AI-Coursework2025
+# MallCustomers-Clustering
